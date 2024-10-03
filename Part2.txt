@@ -1,0 +1,29 @@
+JavaScript DOM Review Quiz
+--------------------------
+
+Part 2: Fill in the Blank
+-------------------------
+
+Complete the following sentences with the correct answer.
+_________________________________________________________
+
+
+1. To change the content of an HTML element, you can use either the _innerHTML________ or innerText properties.
+
+2. The src attribute of an <img> tag can be modified using __setAttribute_______ in JavaScript.
+
+3. To save an element selected by its ID into a variable, you can use the method ___getElementById______.
+
+4. JavaScript can be linked in the <head> tag of an HTML file with the attribute __defer____ to ensure it waits for the page to load.
+
+5. To create a new element in the DOM, use the __createElement()_______ method.
+
+6. The property ___checked______ allows you to check if a radio button is selected.
+
+7. JavaScript can handle repeating tasks with the ___setInterval______ method, which runs code after a certain interval repeatedly.
+
+8. The .play() method is used with ____audio_____ objects to play sound.
+
+9. The ____stringify()____ method is used to convert a JavaScript object into a JSON string.
+
+10. JavaScript files can be included multiple times in an HTML document by using multiple ___script______ tags.
